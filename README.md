@@ -1,2 +1,2 @@
 # weatherSPA
-Run with node server.js
+Use "node server.js" to run app
